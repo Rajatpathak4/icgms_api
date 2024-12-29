@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+env/
+
+# Byte-compiled files
+*.pyc
+*.pyo
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Other common files
+*.log
+*.sqlite3
